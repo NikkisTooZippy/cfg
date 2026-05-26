@@ -1,4 +1,3 @@
-
 # Nikki's CS2 Autoexec and Other Misc Configs
 
 ## What this is
@@ -13,3 +12,9 @@ then return back to Steam and add `+exec autoexec.cfg` into your launch options.
 ## Help I can't use the crosshair files!
 
 You're probably holding it wrong, when you exec the crosshair configs in console you need to add the folder, so instead of `exec face.cfg` it's `exec xhairs/face.cfg`
+
+## Tips
+
+Do **NOT** use this if you don't have a backup of your config! my binds are *WEIRD* and you will not like them!<br>
+<br>
+You can also exec the configs without ".cfg" at the end!
