@@ -7,7 +7,7 @@ Just a backup of my CS2 config, if you're not me you don't really care probably.
 ## How do I use it?
 
 Go to Steam, Right Click on Counter-Strike 2, Manage > Browse local files and drag the configs into game/csgo/cfg/<br>
-then return back to Steam and add `+exec autoexec.cfg` into your launch options. This is the same as typing "exec autoexec.cfg" in the console
+then return back to Steam and add `+exec autoexec.cfg` into your launch options **AFTER** `%command%` if you have it. This is the same as typing "exec autoexec.cfg" in the console
 
 ## Help I can't use the crosshair files!
 
